@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hey, welcome!
+
+## About me:
+I am Guilherme, I’m an undergrad computer science student at UFCG - Brazil, and currently working as an intern at <a href="https://www.phoebus.com.br/">@Phoebus</a>
+
+## How to reach me:
+<a href="https://www.instagram.com/guilhermeboia/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png">
+<a href="https://www.linkedin.com/in/guilhermeboia/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png">
+<a href="https://www.github.com/guilhermeboia"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 
 <!--
 **guilhermeboia/guilhermeboia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
