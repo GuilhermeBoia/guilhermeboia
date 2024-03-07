@@ -1,7 +1,7 @@
 ### Hey, welcome!
 
 ## About me:
-I am Guilherme, I’m an undergrad computer science student at UFCG - Brazil, and currently working as an intern at <a href="https://www.phoebus.com.br/">@Phoebus</a>
+I am **Guilherme**, I’m an undergrad computer science student at UFCG - Brazil, and currently working as an intern at <a href="https://www.phoebus.com.br/">@Phoebus</a>
 
 ## How to reach me:
 <a href="https://www.linkedin.com/in/guilhermeboia/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png">
