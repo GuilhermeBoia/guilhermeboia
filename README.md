@@ -1,7 +1,6 @@
 ### Hey, welcome!
 
 ## About me:
-I am **Guilherme**, I’m an undergrad computer science student at UFCG - Brazil, and currently working as an intern at <a href="https://www.phoebus.com.br/">@Phoebus</a>
 I am **Guilherme**, I’m an undergrad computer science student at UFCG - Brazil, and currently working as an intern at [@Phoebus](https://www.phoebus.com.br/)
 
 ## How to reach me:
