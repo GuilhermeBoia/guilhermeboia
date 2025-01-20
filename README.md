@@ -4,8 +4,7 @@
 I am **Guilherme**, I’m an undergrad computer science student at UFCG - Brazil.
 
 ## How to reach me:
-<a href="https://www.linkedin.com/in/guilhermeboia/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png">
-<a href="https://www.instagram.com/guilhermeboia/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png">
+[guilhermeboia.com](https://www.guilhermeboia.com/)
 
 <!--
 **guilhermeboia/guilhermeboia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
